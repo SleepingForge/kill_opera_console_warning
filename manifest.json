@@ -5,6 +5,8 @@
   , "version"             :  "1.1"
   
   , "devtools_page"       :  "devtools_page.html"
+
+  , "icons"               :  { "128": "icon128X.png" }
   
   , "content_scripts"     :
       [
